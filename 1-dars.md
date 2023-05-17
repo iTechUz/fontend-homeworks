@@ -1,10 +1,2 @@
-| Kirish. Kompyuter nima ? | - Sichqoncha
-						   | - Klavyatura
-						   | - Protsessor	
-						   | - HDD
-						   | - SSD
-						   | - Tezkor xotira
-						   | - Video Karta
-						   | - Operation systems haqida ma'lumot
-						   | Kompyuter yoqib, o'chirish |
-| ------------------------ | -------------- |
+| Kirish. Kompyuter nima ?   |  Kompyuter nima? Kompyuter afzalliklari va kamchiliklari|
+| :------------------------: | --------------------------------------------------------|
