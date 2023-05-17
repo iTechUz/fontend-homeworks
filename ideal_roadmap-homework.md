@@ -1,7 +1,7 @@
 |T/r| Mavzu 								 | Uyga vazifa |
 |:-:| -------------------------------------- | --------------------------------------------------------|
 | 1 | Kirish \| Kompyuter nima ?        	 | Kompyuter tarixi. Kompyuter afzalliklari va kamchiliklari |
-| 2 | Savodxonlik \| Kompyuter tarkibi  	 | Darsda o'tilgan terminal buyruqlarini yod olish |
+| 2 | Savodxonlik \| Kompyuter tarkibi  	 | 1. Qanday xotira turlari mavjudligini topish? 2. Protstessorning turlari haqida o’rganish 3. Birinchi kampyuter qachon paydo bo’lgan 4.Gmail ga kelgan xabarlarni telegram bot orqali o’qish uchun ulab keling 5.Abdukarim bir son o’yladi. Bu sonning oxirgi raqami 5 bilan tugaydi va bu son 300 dan katta, ammo 310 dan kichik. Bu qaysi son? |
 | 3 | Savodxonlik \| Fayl bilan ishlash 	 | Ishchi stoldagi papkalarni yashirish va ikonchasini o'zgartirish |
 | 4 | Savodxonlik \| Google Drive       	 | Google Sheets, Docs, Slides saytlarida fayllar ochish |
 | 5 | Asos \| Dasturchilar turlari			 | Barcha dasturlash yo'nalishlari bo'yicha qisqacha ma'lumotga ega bo'lish |
